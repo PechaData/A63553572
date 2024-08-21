@@ -1,0 +1,23 @@
+{
+  "id_": "A63553572",
+  "segments_metadata": {
+    "IAC64D97A": {
+      "type": "Root_Segment",
+      "relation": "Source",
+      "lang": "Tibetan",
+      "base": "11fd",
+      "layer": "Root_Segment-f68.json"
+    },
+    "I59057994": {
+      "type": "Commentary",
+      "relation": "Target",
+      "lang": "Tibetan",
+      "base": "f180",
+      "layer": "Commentary-0f5.json"
+    }
+  },
+  "source_metadata": {
+    "type": "Root_Commentary",
+    "source": "https://github.com/Esukhia/chojuk-alignement/tree/master/Kunpal-final"
+  }
+}
